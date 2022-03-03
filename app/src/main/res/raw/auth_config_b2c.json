@@ -1,0 +1,12 @@
+{
+  "client_id": "0b8088c4-5513-4ebe-9300-aae9273cb66b",
+  "authorization_user_agent": "DEFAULT",
+  "redirect_uri": "msauth://com.avanade.b2cloginsocial/UpL5PjBFLcST4I217B4Jr7OeqQs%3D",
+  "authorities": [
+    {
+      "type": "B2C",
+      "authority_url": "https://nextdevpoc.b2clogin.com/tfp/nextdevpoc.onmicrosoft.com/<B2C_POLICY_NAME>/",
+      "default": true
+    }
+  ]
+}
